@@ -1,0 +1,32 @@
+[
+  {
+    "IDGV": "GV001",
+    "Fullname": "Nguyễn Văn An",
+    "Image": "",
+    "SumClass": 5
+  },
+  {
+    "IDGV": "GV002",
+    "Fullname": "Trần Thị Bình",
+    "Image": "",
+    "SumClass": 8
+  },
+  {
+    "IDGV": "GV003",
+    "Fullname": "Lê Minh Châu",
+    "Image": "",
+    "SumClass": 3
+  },
+  {
+    "IDGV": "GV004",
+    "Fullname": "Phạm Quốc Dũng",
+    "Image": "",
+    "SumClass": 12
+  },
+  {
+    "IDGV": "GV005",
+    "Fullname": "Hoàng Thị Em",
+    "Image": "",
+    "SumClass": 6
+  }
+]
